@@ -1,10 +1,11 @@
+
 [
   {
     "position": 1,
     "name": "North by Honeywell Electrical Safety Kit",
     "slug": "north-honeywell-electrical-safety-kit",
     "description": "Comprehensive PPE kit designed for NFPA 70E and OSHA compliance on electrical jobs.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/honeywell-electrical-kit.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/north-honeywell-electrical-safety-kit.jpg",
     "target_audience_match": "Perfect for electrical contractors dealing with arc flash risks who need field-ready protection they can trust.",
     "price": "From $249",
     "data-link": "pending"
@@ -14,7 +15,7 @@
     "name": "BRADY Electrical Lockout/Tagout Kit",
     "slug": "brady-electrical-lockout-tagout-kit",
     "description": "Essential LOTO kit to keep electrical jobs safe and OSHA-compliant.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/brady-loto-kit.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/brady-electrical-lockout-tagout-kit.jpg",
     "target_audience_match": "Great for electricians tired of cobbling together lockout tools and risking avoidable mistakes.",
     "price": "From $129",
     "data-link": "pending"
@@ -24,7 +25,7 @@
     "name": "Klein Tools Electrician's Jobsite Kit",
     "slug": "klein-tools-electrician-jobsite-kit",
     "description": "OSHA-aligned safety essentials packed for the everyday electrical pro.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/klein-jobsite-kit.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/klein-tools-electrician-jobsite-kit.jpg",
     "target_audience_match": "Ideal for jobsite electricians who want grab-and-go gear that passes any walkthrough.",
     "price": "From $89",
     "data-link": "pending"
@@ -34,7 +35,7 @@
     "name": "3M Electrical PPE Compliance Kit",
     "slug": "3m-electrical-ppe-compliance-kit",
     "description": "Top-tier personal protection gear engineered to exceed OSHA standards.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/3m-electrical-ppe-kit.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/3m-electrical-ppe-compliance-kit.jpg",
     "target_audience_match": "For teams near energized gear who want premium coverage without piecing together protection.",
     "price": "From $329",
     "data-link": "pending"
@@ -44,7 +45,7 @@
     "name": "Saf-T-Gard Electrical Safety Starter Kit",
     "slug": "saftgard-electrical-starter-kit",
     "description": "Affordable, OSHA-aligned kit for new or small electrical crews.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/saftgard-starter-kit.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/saftgard-electrical-starter-kit.jpg",
     "target_audience_match": "A smart entry-level pick for contractors building their first safety kit without blowing the budget.",
     "price": "From $59",
     "data-link": "pending"
